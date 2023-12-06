@@ -1,5 +1,5 @@
 [package]
-name = "my_guessing_game"
+name = "my_guessing_game_crate"
 version = "0.1.0"
 edition = "2021"
 description = "A fun game where you guess what number the computer has chosen."
